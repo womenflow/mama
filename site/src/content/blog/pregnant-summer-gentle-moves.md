@@ -1,9 +1,9 @@
 ---
 title: "Pregnant This Summer? 7 Gentle Moves to Beat Swelling and Stay Cool"
 description: "Seven safe, gentle exercises for pregnancy in hot weather — reduce swelling, boost circulation, and stay comfortable through a summer bump."
-pubDate: 2026-07-10T08:00:00Z
+pubDate: 2026-07-09T22:12:58Z
 tags: ["pregnancy", "prenatal exercise", "summer", "wellness"]
-draft: true
+draft: false
 image: "/images/mama-s1.png"
 ---
 
