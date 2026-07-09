@@ -13,6 +13,10 @@ Gentle movement genuinely helps: it eases swelling, keeps circulation happy, and
 
 ![Gentle cooling stretches during pregnancy](/images/mama-s1.png)
 
+Here's everything in one view — the golden rules and all seven moves:
+
+![Seven gentle pregnancy moves and three golden rules](/images/mama-diagram.svg)
+
 ## First, the Golden Rules
 Before anything, three things to keep in mind all summer:
 - **Hydrate more than feels necessary.** Water is your best friend now.
